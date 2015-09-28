@@ -1,0 +1,12 @@
+body {
+	text-align: center;
+}
+h2 {
+	font-size: 25px;
+	text-align: center;
+	font-family: helvetica;
+}
+p {
+	font-size: 16px;
+	font-style: bold
+}
